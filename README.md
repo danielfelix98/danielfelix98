@@ -16,5 +16,5 @@
   <a href="https://www.linkedin.com/in/daniel-f%C3%A9lix-aab79821b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
-  ![Snake animation](https://github.com/danielfelix98/danielfelix98/blob/main/.github/workflows/cobra.yml)
+  ![Snake animation](https://github.com/danielfelix98/danielfelix98/blob/output/github-contribution-grid-snake.svg)
 
