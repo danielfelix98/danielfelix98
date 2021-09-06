@@ -3,8 +3,8 @@
 - 🌱 Estou atualmente estudando Engenharia de Telecomunicações e Informática...
 <div>
   <a href="https://github.com/danielfelix98">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfelix98&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfelix98&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=danielfelix98&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfelix98&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
   
   ##
@@ -16,5 +16,5 @@
   <a href="https://www.linkedin.com/in/daniel-f%C3%A9lix-aab79821b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/danielfelix98/danielfelix98/blob/main/.github/workflows/cobra.yml)
 
