@@ -15,7 +15,7 @@
 
 
 
-<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/danielfelix98/images/code.gif">
+<img align="center" alt="Coding" width="1000" src="https://github.com/danielfelix98/danielfelix98/blob/d42071e844fb13945d0196640e332f045442ad39/images/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielfelix98&label=Profile%20views&color=0e75b6&style=flat" alt="danielfelix98" /> </p>
 
@@ -123,6 +123,6 @@
 
 <div style="margin-bottom: 60px;"></div>
 <h3 align="center"><samp>✍️Random Dev Quote</samp></h3>
-    <div>
+    <div align="center">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
     </div>
